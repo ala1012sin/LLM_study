@@ -1,0 +1,22 @@
+[
+    {
+        "no": 1,
+        "eng": "Which statement about the image is incorrect?\n(1) The sum of three pairs of shoes in the image is 30.\n(2) One pair of shoes equals 10.\n(3) One boy represents 5.\n(4) On the second line of the image, the sum of one boy and one pair of shoes is 15.",
+        "img": "quiz1.jpg"
+    },
+    {
+        "no": 2,
+        "eng": "Which of the following is NOT accurately described in the image?\n(1) Mathematical formulas and graphs are included.\n(2) Circuit symbols are depicted in the drawing.\n(3) The image contains a musical score.\n(4) Free-body diagrams are visible in the drawing.",
+        "img": "quiz2.jpg"
+    },
+    {
+        "no": 3,
+        "eng": "Which of the following statements about the image is incorrect?\n(1) Jun-hee read for 3/6 hours in the morning.\n(2) Jun-hee read for 1 hour in the afternoon.\n(3) The total time Jun-hee spent reading is 5/2 hours.\n(4) The total time Jun-hee spent reading is 1 hour and 30 minutes.",
+        "img": "quiz3.jpg"
+    },
+    {
+        "no": 4,
+        "eng": "Which of the following descriptions about the image is incorrect?\n\n(1) People are lining up to board a bus.\n(2) The image shows the inside of a coffee shop.\n(3) Everyone is wearing black clothing.\n(4) Trees are lined along the street.",
+        "img": "stanford_coffee.jpg"
+    }
+]
