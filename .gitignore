@@ -105,9 +105,4 @@ secrets.json
 
 # Chroma database
 chroma_store/
-
-*.pdf
-*.mp3
-
-*.pdf
-*.mp3
+chromadb/
